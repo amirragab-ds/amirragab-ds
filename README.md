@@ -10,3 +10,4 @@ Deep Learning Curriculum for a Company Course:
 
 I developed a 120-hour structured deep learning curriculum for a company course, guiding learners from foundational neural networks to advanced topics like CNNs, RNNs, GANs, and transformers. Through 3 hands-on projects in image classification, sentiment analysis, and speech recognition, learners achieved practical mastery with real datasets. Proficiency in TensorFlow, a prominent deep learning framework, rounded out their skill set, ensuring a seamless transition to impactful real-world applications.
 
+You can reach me through [linkedin](www.linkedin.com/in/amir-ragab-ds) or my email: amir@datascrutineer.com.
