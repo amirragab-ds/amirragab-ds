@@ -13,6 +13,7 @@ I developed a 120-hour structured deep learning curriculum for a company course,
 These are some of my personal projects:
 
 [Speech Emotion Recognition (SER) using CNNs and CRNNs Based on Mel Spectrograms and Mel Frequency Cepstral Coefficients (MFCCs)](https://github.com/amirragab-ds/SER-using-MFCCs-and-Mel-Spectrograms):
+
 This project tackled the challenges of speech-based emotion recognition, employing three diverse models on four datasets: RAVDESS, TESS, SAVEE, and CREMA-D. The Mel Spectrogram CNN model showed promise but faced challenges, while the MFCCs CNN model outperformed, achieving 74% accuracy and a remarkable Macro Average F1-score of 0.76. Despite the MFCCs CRNN model's good performance, it slightly lagged behind the MFCCs CNN model and showed signs of overfitting. Evaluation metrics, including precision, recall, and F1 score, underscore the project's success in effectively classifying emotional content from voice alone, with the best model nearing state-of-the-art performance."
 
 [Thoracic Disease Detection Using CNNs and Weighted Binary Cross Entropy Loss Based on Chest X-Ray Images](https://github.com/amirragab-ds/thoracic-disease-detection):
