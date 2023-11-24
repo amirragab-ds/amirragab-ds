@@ -22,7 +22,7 @@ In this project, I used Convolutional Neural Networks (CNNs) to detect 14 differ
 
 [Sales Data Analysis and Forecasting using Ensemble Methods](https://github.com/amirragab-ds/Sales-Data-Analysis-and-Forecasting-Using-Ensemble-Methods)
 
-In this Sales Data Analysis and Forecasting project, I utilized Ensemble Methods to predict future sales, leveraging a dataset of 1,115 drugstores. The Random Forest Regressor and XGBRegressor models were used, with both models demonstrating exceptional performance, and XGBoost slightly edging out due to its iterative nature.
+In the Sales Data Analysis and Forecasting project, I utilized Ensemble Methods to predict future sales, leveraging a dataset of 1,115 drugstores. The Random Forest Regressor and XGBRegressor models were used, with both models demonstrating exceptional performance, and XGBoost slightly edging out due to its iterative nature.
 The Random Forest Regressor exhibited an MAE of 1115, SMAPE of 16.12%, and an R2 score of 0.70. In comparison, the XGBoost Regressor showcased superior results with an MAE of 1031, SMAPE of 15.12%, and an R2 score of 0.73. Notably, the XGBoost model revealed insights into the significance of Promo and Promo2 features, underscoring its ability to learn and improve predictions. This project not only highlights the effectiveness of ensemble methods in sales forecasting but also provides valuable insights into customer behavior, seasonal patterns, and the pivotal impact of promotional strategies on sales outcomes.
 
 You can reach me through [linkedin](www.linkedin.com/in/amir-ragab-ds) or my email: amir@datascrutineer.com.
