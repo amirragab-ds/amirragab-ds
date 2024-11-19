@@ -1,4 +1,4 @@
-I am a Data Scientist with 3 years of experience in Data Analytics, Machine Learning, and Deep Learning. I have helped companies make data-driven decisions that reduced costs, optimized workflows, and solved problems. 
+I am a Data Scientist with 4 years of experience in Data Analytics, Machine Learning, and Deep Learning. I have helped companies make data-driven decisions that reduced costs, optimized workflows, and solved problems. 
 
 Some examples include:
 
